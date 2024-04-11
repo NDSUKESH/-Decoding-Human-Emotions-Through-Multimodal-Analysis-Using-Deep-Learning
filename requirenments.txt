@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+tensorflow
+seaborn
+sklearn
+transformers
+torch
+librosa
+pysoundfile
+moviepy
+nltk
+scikit-learn
+gensim
+spacy
